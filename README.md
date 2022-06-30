@@ -14,6 +14,6 @@
 
 This project was developed during Ignite 1st class with the following technologies:
 
-  - [ReactJS](https://reactjs.org/)
-  - [Typescript][ts]
+  - [ReactJS]
+  - [Typescript]
 
